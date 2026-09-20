@@ -1,2 +1,0 @@
-# Test
-App can write!
